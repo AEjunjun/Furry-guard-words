@@ -1,6 +1,6 @@
 # furry-guard
 
-简体中文 | [English](./README.md)
+简体中文 | [English](./Furry-guard-words/README.md)
 
 Furry 文化歧视 / 引战话术屏蔽词库
 
