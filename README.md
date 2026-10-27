@@ -1,6 +1,6 @@
 # furry-guard
 
-[简体中文](README_CN.md) | [English](README.md)
+[简体中文](/README/README_CN.md) | English
 
 Furry culture discrimination / provocative speech blocklist library
 
